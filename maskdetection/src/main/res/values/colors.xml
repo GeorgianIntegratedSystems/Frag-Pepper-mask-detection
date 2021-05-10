@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMaskDetected">#2CDF5C</color>
+    <color name="colorNoMaskDetected">#DF2C2C</color>
+    <color name="colorNobody">#C7C7C7</color>
+
+</resources>

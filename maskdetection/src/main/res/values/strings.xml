@@ -1,0 +1,5 @@
+<resources>
+    <string name="permissions_needed">Requires permission for camera and microphone. Please enable additional features in the application settings.</string>
+    <string name="mask">Mask</string>
+    <string name="no_mask">No Mask</string>
+</resources>
